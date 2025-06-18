@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi there! 👋 I'm Muhamad Nur Sidik</h1>
+<h1 align="center">Hi there! 👋 I'm Muhamad Nur Sidik 😹</h1>
 <p align="center">
   <i>Vocational High School student majoring in Software Engineering based in Bandung, Indonesia.</i>
 </p>

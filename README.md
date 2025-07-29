@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/dikzz_wrld7" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.tiktok.com/@dikzzy37" target="_blank"><img src="https://img.shields.io/badge/tiktok-E4405F?style=flat&logo=tiktok&logoColor=black"/></a>
+  <a href="https://www.tiktok.com/@dikzzy37" target="_blank"><img src="https://img.shields.io/badge/tiktok-000FFF?style=flat&logo=tiktok&logoColor=black"/></a>
 </p>
 
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Sidikrajaiblis">
+  <a href="https://github.com/Muhamadnursidik">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRmbmdham5hOWN4dm13emI3bzRwbGo1NGRhYjdyM3p3eWs4OW14bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UTek0q3N8osh8agH4Y/giphy.gif" alt="Header" width="200" />
   </a>
 </p>
@@ -25,7 +25,7 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidikrajaiblis&layout=compact&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamadnursidik&layout=compact&theme=tokyonight&show_icons=true" />
 </p>
 
 ---
